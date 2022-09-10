@@ -1,21 +1,16 @@
+import React from 'react';
 import Head from 'next/head';
 import Script from 'next/script';
 
-export default function Header() {
+const Header = () => {
   return (
     <>
       <Head>
         <title>Your title</title>
         <meta name='language' content='English'></meta>
         <meta name='title' content='Your title' />
-        <meta
-          name='description'
-          content='Your description'
-        />
-        <meta
-          name='keywords'
-          content='your keywords'
-        />
+        <meta name='description' content='Your description' />
+        <meta name='keywords' content='your keywords' />
         <meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
         <meta name='author' content='Your name' />
         <link
@@ -41,6 +36,8 @@ export default function Header() {
           gtag('config', '[Your GA id]');`}
       </Script>
       <header>This is header</header>
-    </>    
+    </>
   );
-}
+};
+
+export default Header;
