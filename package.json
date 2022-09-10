@@ -1,8 +1,8 @@
 {
-  "name": "apple-summary-slides",
+  "name": "your-website-name",
   "version": "1.0.0",
-  "homepage": "https://github.com/rickyzhangca/apple-summary-slides",
-  "author": "Ricky Zhang",
+  "homepage": "your-website",
+  "author": "your-name",
   "scripts": {
     "build": "next build",
     "start": "next start",
