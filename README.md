@@ -15,7 +15,9 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 3. Check `public/` to update favicons.
 
-4. Start building your site from `home.jsx`!
+4. Check `package.json` to update project info.
+
+5. Start building your site from `home.jsx`!
 
 ## All commands
 
