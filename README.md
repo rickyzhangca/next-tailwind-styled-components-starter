@@ -25,6 +25,6 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 `yarn dev`: does `next dev`
 
-`yarn lint`: does `next lint"`
+`yarn lint`: does `next lint`
 
 `yarn export`: does `next build && next export`
