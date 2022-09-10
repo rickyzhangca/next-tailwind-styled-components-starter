@@ -11,7 +11,7 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 2. Run `yarn`, then `yarn dev`. If you use npm, `npm install`, `npm run dev`.
 
-2. Check `header.js` to update site information.
+2. Check `components/header.js` to update site information.
 
 3. Check `public` to update favicons.
 
