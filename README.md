@@ -2,7 +2,7 @@
 
 A template of Next.js + Tailwind + styled-components stack that works out of the box! 
 
-It uses Inter font and also takes advantage of [`tailwind-styled-components`](https://github.com/MathiasGilson/tailwind-styled-component) so you can write Tailwind and style components seamlessly together. It supports all styled component features and enables you to speak Tailwind.
+It uses Inter font and also takes advantage of [`tailwind-styled-components`](https://github.com/MathiasGilson/tailwind-styled-component) so you can write Tailwind and style components seamlessly together. It supports all styled component features and enables you to speak Tailwind. Eslint and Prettier is also configured.
 
 
 ## Get started
@@ -17,7 +17,7 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 4. Check `package.json` to update project info.
 
-5. Start building your site from `./pages/home.jsx`!
+5. Start building your site from `./pages/index.jsx`!
 
 ## All commands
 
