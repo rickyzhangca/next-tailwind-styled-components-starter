@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Variable Fonts */
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("./fonts/Inter.var.woff2") format("woff2");
+    font-named-instance: "Regular";
+  }
+}
+
+html {
+  @apply antialiased;
+  font-family: Inter, system-ui, sans-serif;
+}
