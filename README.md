@@ -11,9 +11,9 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 2. Run `yarn`, then `yarn dev`. If you use npm, `npm install`, `npm run dev`.
 
-2. Check `header.js` to update site information. Google Analytics is also ready to go.
+2. Check `header.js` to update site information.
 
-3. Check `public/` to update favicons.
+3. Check `public` to update favicons.
 
 4. Check `package.json` to update project info.
 
