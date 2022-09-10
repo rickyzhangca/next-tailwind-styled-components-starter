@@ -17,7 +17,7 @@ It uses Inter font and also takes advantage of [`tailwind-styled-components`](ht
 
 4. Check `package.json` to update project info.
 
-5. Start building your site from `./pages/index.jsx`!
+5. Start building your site from `./pages/index.js`!
 
 ## All commands
 
